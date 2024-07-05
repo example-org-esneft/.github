@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+:memo: If you are a new starter and need to join the organisation please contact demo@demo.com
 <!--
 
 **Here are some ideas to get you started:**
